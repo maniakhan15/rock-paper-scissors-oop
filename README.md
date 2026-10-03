@@ -58,9 +58,7 @@
    ```bash
    git clone [https://github.com/maniakhan15/rock-paper-scissors-oop.git](https://github.com/maniakhan15/rock-paper-scissors-oop.git)
    cd rock-paper-scissors-oop
-   Execute the game script:
-Bash
-python "rock-paper-scissor game.py"
+   Execute the game script:Bash python "rock-paper-scissor game.py"
 
 
 ## 📌 Project Goal
