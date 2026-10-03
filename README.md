@@ -1,4 +1,4 @@
-# 🎮 Rock Paper Scissors — OOP Edition
+# 🎮 Rock Paper Scissors — OOP
 
 > A feature-rich, interactive command-line Rock Paper Scissors game built in Python using Object-Oriented Programming principles.
 
